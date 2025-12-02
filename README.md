@@ -20,7 +20,6 @@ Ce projet est une application de démonstration d'architecture microservices qui
  ## Service Client (Port 8088)
 http://localhost:8088/clients
 <img width="511" height="298" alt="Capture d’écran 2025-12-03 à 00 04 34" src="https://github.com/user-attachments/assets/0a7632c3-08a2-43ce-b52c-64e369250d01" />
-<img width="521" height="374" alt="Capture d’écran 2025-12-03 à 00 13 14" src="https://github.com/user-attachments/assets/daff1161-a1e5-4e11-83d6-36715df4864a" />
 
 
 
